@@ -1,0 +1,9 @@
+[submodule "timesfm"]
+	path = timesfm
+	url = https://github.com/google-research/timesfm.git
+[submodule "DLinear"]
+	path = DLinear
+	url = https://github.com/vivva/DLinear.git
+[submodule "dashed_dreams"]
+	path = dashed_dreams
+	url = https://github.com/ritvikgupta199/Dashed-Dreams.git

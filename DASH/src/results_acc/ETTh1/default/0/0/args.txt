@@ -1,0 +1,21 @@
+{
+  "dataset": "ETTh1",
+  "arch": "",
+  "experiment_id": "0",
+  "baseline": 0,
+  "seed": 0,
+  "kernel_choices": [
+    null
+  ],
+  "dilation_choices": [
+    null
+  ],
+  "verbose": 0,
+  "print_freq": 10,
+  "valid_split": 0,
+  "reproducibility": 0,
+  "separable": 1,
+  "stream": 1,
+  "device": "cuda",
+  "save_dir": "results_acc/ETTh1/default/0/0"
+}

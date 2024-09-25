@@ -1,0 +1,7 @@
+**/__pycache__/**
+results_acc/**
+mlp_states/**
+*slurm_logs*/**
+.vscode/**
+datasets/**
+darts_logs/**
